@@ -1,8 +1,8 @@
 # Eugenia Ceinos
 # UWYO COSC 1010
-# Submission Date: 
+# Submission Date: 22/09/2024
 # Lab 02 
-# Lab Section: 3
+# Lab Section: 16
 # Sources, people worked with, help given to: none
 
 ## Section ONE
@@ -43,9 +43,9 @@ print(f"x / y = {x / y}")
     # It is done using the + operator
     # Create three variables:
         # first_name, which is your first name 
-first_name = Eugenia
+first_name = "Eugenia"
         # last_name, which is your last name
-last_name = Ceinos
+last_name = "Ceinos"
         # space, which is a space character 
 space = " "
     # Use string concatenation to print out your full name 
